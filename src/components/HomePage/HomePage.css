@@ -1,0 +1,40 @@
+.heading{
+    color: whitesmoke;
+    margin-left: 3vh;
+}
+.infinite_scroll_div{
+    background-image: url(../../assests/theme.jpg);
+    height:100vh;
+    background-size:cover;
+}
+.loader{
+   width:6vh;
+   padding-right: 1%;
+}
+ul {
+    list-style: none;
+  }
+li {
+    padding: 1.8rem;
+    margin: 1rem;
+    background-color: aliceblue;
+    font-size: 20px;
+  }
+  .loading{
+      color:black;
+      font-size: 22px;
+      margin: 0 0 0 10vh;
+  }
+  .userList{
+    height: 70vh;
+    overflow: auto;
+    margin: 3vh 0 0 0;
+    height: "378px";
+    overflow: "auto";
+  }
+  .Logout{
+    text-align: end;
+    margin: 0 6vh 0 0;
+    color: white;
+    padding-top: 3%;
+  }
